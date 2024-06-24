@@ -1,16 +1,9 @@
-# nearlocation
+# arshedny
 
-A new Flutter project.
+flutter app to displays the 5 closest places to you for any choice, and when you select the place, it draws a route for you and also copies the link to the coordinates if you want to send it to someone else or open it in the Google Map application on your device.
 
-## Getting Started
+## Contact Us
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [private](https://t.me/MO_SH_FY)
+- [Channel](https://t.me/Elshafey_Team)
+- [linkedin](https://www.linkedin.com/in/mohamed-elshafey-974723271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
