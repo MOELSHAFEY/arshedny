@@ -1,6 +1,6 @@
 # arshedny
 
-flutter app to displays the 5 closest places to you for any choice, and when you select the place, it draws a route for you and also copies the link to the coordinates if you want to send it to someone else or open it in the Google Map application on your device.
+flutter app to Find the nearest (mosque - gas station - hospital - supermarket) it displays the 5 closest places to you for any choice, and when you select the place, it draws a route for you and also copies the link to the coordinates if you want to send it to someone else or open it in the Google Map application on your device.
 
 ## Contact Us
 
